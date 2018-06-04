@@ -1,3 +1,4 @@
+
 # 8086:Modern UI Emulation
 **IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE SUBJECT COEN3114: COMPUTER SYSTEM ORGANIZATION WITH ASSEMBLY LANGUAGE IN POLYTECHNIC UNIVERSITY OF THE PHILIPPINES IN PURSUIT OF THE DEGREE OF BS COMPUTER ENGINEERING**
 
@@ -11,14 +12,21 @@ THE PROGRAM IS DEVELOPED IN ASSEMBLY LANGUAGE AND TESTED IN DOSBOX v0.74
 - ZYLLE MUNAR
 - MICHAEL PELAGIO
  
+ ## VERSION 
+ - **v1.0** - Project Deployment
+ - **v1.1** - Added login feature
+- **v2.0** - * **COMING SOON** *
 ## THE PROJECT
  
 ### FEATURES
-#### THE MAIN MENU
 <div align="center">
+  <h5>LOGIN</h5>
+    * Added as of v1.1 as the professor required a login feature
+   <img src="https://www.jupertt.com/projects/assembly/8086modernui/8.png" alt="LOGIN">
+   
   <h5>PRE-MENU</h5>
   <img src="https://www.jupertt.com/projects/assembly/8086modernui/1.png" alt="PREMENU">
-
+  
   <h5>MAIN MENU</h5>
   <img src="https://www.jupertt.com/projects/assembly/8086modernui/3.png" alt="MENU">
 
